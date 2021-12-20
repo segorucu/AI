@@ -1,1 +1,0 @@
-Tridirectional search
